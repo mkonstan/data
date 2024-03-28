@@ -1,0 +1,352 @@
+[
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "description": "Montgomery",
+      "latitude": 32.377716,
+      "longitude": -86.300568
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "description": "Juneau",
+      "latitude": 58.301598,
+      "longitude": -134.420212
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "description": "Phoenix",
+      "latitude": 33.448143,
+      "longitude": -112.096962
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "description": "Little Rock",
+      "latitude": 34.746613,
+      "longitude": -92.288986
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "description": "Sacramento",
+      "latitude": 38.576668,
+      "longitude": -121.493629
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "description": "Denver",
+      "latitude": 39.739227,
+      "longitude": -104.984856
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "description": "Hartford",
+      "latitude": 41.764046,
+      "longitude": -72.682198
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "description": "Dover",
+      "latitude": 39.157307,
+      "longitude": -75.519722
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "description": "Honolulu",
+      "latitude": 21.307442,
+      "longitude": -157.857376
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "description": "Tallahassee",
+      "latitude": 30.438118,
+      "longitude": -84.281296
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "description": "Atlanta",
+      "latitude": 33.749027,
+      "longitude": -84.388229
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "description": "Boise",
+      "latitude": 43.617775,
+      "longitude": -116.199722
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "description": "Springfield",
+      "latitude": 39.798363,
+      "longitude": -89.654961
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "description": "Indianapolis",
+      "latitude": 39.768623,
+      "longitude": -86.162643
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "description": "Des Moines",
+      "latitude": 41.591087,
+      "longitude": -93.603729
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "description": "Topeka",
+      "latitude": 39.048191,
+      "longitude": -95.677956
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "description": "Frankfort",
+      "latitude": 38.186722,
+      "longitude": -84.875374
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "description": "Baton Rouge",
+      "latitude": 30.457069,
+      "longitude": -91.187393
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "description": "Augusta",
+      "latitude": 44.307167,
+      "longitude": -69.781693
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "description": "Annapolis",
+      "latitude": 38.978764,
+      "longitude": -76.490936
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "description": "Boston",
+      "latitude": 42.358162,
+      "longitude": -71.063698
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "description": "Lansing",
+      "latitude": 42.733635,
+      "longitude": -84.555328
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "description": "St. Paul",
+      "latitude": 44.955097,
+      "longitude": -93.102211
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "description": "Jackson",
+      "latitude": 32.303848,
+      "longitude": -90.182106
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "description": "Jefferson City",
+      "latitude": 38.579201,
+      "longitude": -92.172935
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "description": "Helena",
+      "latitude": 46.585709,
+      "longitude": -112.018417
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "description": "Lincoln",
+      "latitude": 40.808075,
+      "longitude": -96.699654
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "description": "Carson City",
+      "latitude": 39.163914,
+      "longitude": -119.766121
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "description": "Concord",
+      "latitude": 43.206898,
+      "longitude": -71.537994
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "description": "Trenton",
+      "latitude": 40.220596,
+      "longitude": -74.769913
+    },
+    {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "description": "Santa Fe",
+      "latitude": 35.68224,
+      "longitude": -105.939728
+    },
+    {
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "description": "Raleigh",
+      "latitude": 35.78043,
+      "longitude": -78.639099
+    },
+    {
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "description": "Bismarck",
+      "latitude": 46.82085,
+      "longitude": -100.783318
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "description": "Albany",
+      "latitude": 42.652843,
+      "longitude": -73.757874
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "description": "Columbus",
+      "latitude": 39.961346,
+      "longitude": -82.999069
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "description": "Oklahoma City",
+      "latitude": 35.492207,
+      "longitude": -97.503342
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "description": "Salem",
+      "latitude": 44.938461,
+      "longitude": -123.030403
+    },
+    {
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "description": "Harrisburg",
+      "latitude": 40.264378,
+      "longitude": -76.883598
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "description": "Providence",
+      "latitude": 41.830914,
+      "longitude": -71.414963
+    },
+    {
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "description": "Columbia",
+      "latitude": 34.000343,
+      "longitude": -81.033211
+    },
+    {
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "description": "Pierre",
+      "latitude": 44.367031,
+      "longitude": -100.346405
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "description": "Nashville",
+      "latitude": 36.16581,
+      "longitude": -86.784241
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "description": "Austin",
+      "latitude": 30.27467,
+      "longitude": -97.740349
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "description": "Salt Lake City",
+      "latitude": 40.777477,
+      "longitude": -111.888237
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "description": "Montpelier",
+      "latitude": 44.262436,
+      "longitude": -72.580536
+    },
+    {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "description": "Richmond",
+      "latitude": 37.538857,
+      "longitude": -77.43364
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "description": "Olympia", 
+      "latitude": 47.035805,
+      "longitude": -122.905014
+    },
+    {
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "description": "Charleston",
+      "latitude": 38.336246,
+      "longitude": -81.612328
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "description": "Madison",
+      "latitude": 43.074684,
+      "longitude": -89.384445
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "description": "Cheyenne",
+      "latitude": 41.140259,
+      "longitude": -104.820236
+    }
+  ]
